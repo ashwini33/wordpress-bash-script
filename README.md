@@ -11,7 +11,11 @@ Password- admin123 <br>
 For get things done fast just do :- <br>
 ```bash
 sudo yum install wget -y
-https://raw.githubusercontent.com/ashwini33/wordpress-bash-script/master/wordpress.sh
+wget https://raw.githubusercontent.com/ashwini33/wordpress-bash-script/master/wordpress.sh
 sudo bash wordpress.sh
 ```
-
+Note: If you have any files allready in the working directory then the downloaded file will will saved with name "wordpress.sh.1" ,in this case run 
+```bash
+sudo bash wordpress.sh
+```
+  
