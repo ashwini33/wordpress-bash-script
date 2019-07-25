@@ -12,6 +12,6 @@ For get things done fast just do :- <br>
 ```bash
 sudo yum install wget -y
 wget https://github.com/ashwini33/wordpress-bash-script/blob/master/wordpress.sh
-sduo bash wordpress.sh
+sudo bash wordpress.sh
 ```
 
