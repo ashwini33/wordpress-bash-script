@@ -7,3 +7,6 @@ This script can also be downloaded and be executed alone to install wordpress.
 Database - wordpress <br>
 Username - admin <br>
 Password- admin123 <br>
+
+For get things done fast just do :-
+
