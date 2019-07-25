@@ -14,7 +14,7 @@ sudo yum install wget -y
 wget https://raw.githubusercontent.com/ashwini33/wordpress-bash-script/master/wordpress.sh
 sudo bash wordpress.sh
 ```
-Note: If you have any files allready in the working directory then the downloaded file will will saved with name "wordpress.sh.1" ,in this case run 
+Note: If you have any files allready in the working directory then the downloaded file will will saved with name "wordpress.sh.1" ,in this case either remove the current file then download again or run 
 ```bash
 sudo bash wordpress.sh.1
 ```
