@@ -40,5 +40,9 @@ restorecon -Rv /var/www/
 firewall-cmd --permanent --add-service={http,https}	
 firewall-cmd --reload
 
+## Restart all services again ##
+systemctl restart httpd
+systemctl restart mariadb
+
 
 
