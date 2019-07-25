@@ -16,6 +16,6 @@ sudo bash wordpress.sh
 ```
 Note: If you have any files allready in the working directory then the downloaded file will will saved with name "wordpress.sh.1" ,in this case run 
 ```bash
-sudo bash wordpress.sh
+sudo bash wordpress.sh.1
 ```
   
